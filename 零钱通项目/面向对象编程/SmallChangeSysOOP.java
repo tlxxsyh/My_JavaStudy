@@ -1,5 +1,3 @@
-package pers.shangyuhang.smallchange;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
